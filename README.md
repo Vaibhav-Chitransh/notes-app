@@ -13,6 +13,7 @@ A simple note-taking app where you can create, updated, delete and read your not
 - [ ] Responsive design
 - [ ] Pagination to display notes on screen
 - [ ] Sort notes by date modified or aplabetical title
+- [ ] User can pin the notes
 
 
 ### Models
